@@ -11,8 +11,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# gemini-frontend-clone
-
 # 💬 Gemini Clone – Conversational AI Chat App (Frontend)
 
 A fully functional, responsive, and visually rich frontend for a Gemini-style conversational AI chat application. Built to mimic real-world AI chat platforms like Google Gemini, this project demonstrates advanced frontend development using React, with modern UX features, OTP-based authentication, and simulated AI messaging.
@@ -56,7 +54,6 @@ This project is part of a full-stack assignment to test practical skills in:
   - Simulated AI response delay (throttling)
 - Features:
   - Auto-scroll to latest message
-  - Reverse infinite scroll (dummy data)
   - Client-side pagination (e.g., 20 messages per page)
   - Image upload support (preview via base64/URL)
   - Copy-to-clipboard on hover
